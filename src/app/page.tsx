@@ -256,7 +256,7 @@ export default function Home() {
           <h2 className="text-3xl font-bold mb-4">Ready to Start Your Adventure?</h2>
           <p className="text-xl mb-8 opacity-90">Join thousands of hunters exploring the city and winning prizes</p>
           <Button size="lg" className="bg-white text-gray-900 hover:bg-gray-100">
-            Create Account - It's Free!
+            Create Account - It&apos;s Free!
           </Button>
         </div>
       </section>

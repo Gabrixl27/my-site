@@ -156,7 +156,7 @@ export default function Dashboard() {
                 <CardContent className="p-12 text-center">
                   <Target className="w-16 h-16 text-gray-400 mx-auto mb-4" />
                   <h3 className="text-xl font-semibold mb-2">No Active Hunts</h3>
-                  <p className="text-gray-600 mb-4">You're not currently participating in any hunts</p>
+                  <p className="text-gray-600 mb-4">You&apos;re not currently participating in any hunts</p>
                   <Button className="bg-gradient-to-r from-orange-500 to-purple-500 text-white">
                     <Link href="/hunts">Join a Hunt</Link>
                   </Button>
